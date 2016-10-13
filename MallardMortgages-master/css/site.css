@@ -41,3 +41,24 @@
   height: 100px;
   width: 100px;
 }
+
+.sf-menu .home img {
+  height: 120px;
+  width: 120px;
+
+}
+
+
+
+
+.sf-menu .aboutus {
+    font-size: 35px;
+    top:50px;
+
+  }
+
+.sf-menu .broker {
+    font-size: 35px;
+    top:50px;
+
+  }
