@@ -62,3 +62,30 @@
     top:50px;
 
   }
+
+.content .images { padding:40px 0 30px; text-align:center; margin:0 -25px;}
+.images img { display:inline-block; vertical-align:top; margin:10px 25px;}
+
+body  .footer {
+  background: #231f20;
+  margin: 0;
+}
+body.footer .content {
+
+  padding: 45px 0 35px; max-width:880px;
+  text-align: left;
+}
+.footer a{
+	color:#b2afb0; font-size:13px;
+}
+body  .footer .content p {
+  font: 11px/20px "arial";
+  color: #b2afb0;
+   text-align: center;  padding-bottom:10px;
+}
+.footer .content {
+padding-top: 30px;
+padding-bottom: 30px;
+
+
+}
