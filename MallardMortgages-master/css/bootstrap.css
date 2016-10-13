@@ -1958,7 +1958,7 @@ header {
   background: #ffffff;
 }
 header .top-sect {
-  padding-bottom: 17px;
+  padding-bottom: 0px;
 }
 header .top-sect:before,
 header .top-sect:after {
